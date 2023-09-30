@@ -1,0 +1,11 @@
+.marked {
+    background-color: rgb(11, 181, 11);
+    text-decoration: line-through;
+    color: rgb(81, 79, 79);
+}
+
+.unmarked {
+    background-color: rgb(255, 255, 255);
+    text-decoration: node;
+    color: black;
+}
